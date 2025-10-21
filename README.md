@@ -1,6 +1,6 @@
 # 🎙️ Speech-to-Text + Diarization + Summarization — Streamlit App
 
-![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/84d7be7c09af05c1a295f770ca02890a79d7fc8b/Screenshot%202025-10-21%20110638.png)
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/fb283b71e67b8782e5530f3bba24ad79c6d05db6/Screenshot%202025-10-21%20121640.png)
 
 This project is a **Streamlit web app** that performs:
 - **Speech-to-Text (ASR)** using OpenAI Whisper  
