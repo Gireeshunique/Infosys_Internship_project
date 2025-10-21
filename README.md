@@ -132,9 +132,10 @@ The meeting began with introductions and discussion about project updates.
 2.Enter Hugging Face token (for diarization)
 
 3.Change summarization model (e.g., facebook/bart-large-cnn, google/pegasus-xsum, etc.)
+---
+```
 
-
-🧾 Notes :
+### 🧾 Notes :
 
 > If diarization fails or token is missing, the app will still run transcription and summarization.
 
@@ -142,9 +143,13 @@ The meeting began with introductions and discussion about project updates.
 
 > All processed files are saved under recordings/.
 
-🧑‍💻 Author :
+### 🧑‍💻 Author :
 
 Developed by: Gireesh Boggala
+
 Tech Stack: Streamlit · Whisper · Pyannote · Transformers · Torch
+
 Tools : VS Studio Code , Google Colab , Streamlit
+
 Laguages : Python 
+
