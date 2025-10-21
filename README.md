@@ -34,6 +34,19 @@ You can upload any audio file, the app will transcribe, detect who spoke when, s
 
 └── README.md # Project documentation
 
+## Example of real-time :
+
+##### Upload and Save the file(eg. ES2004a.wav)
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/84d7be7c09af05c1a295f770ca02890a79d7fc8b/Screenshot%202025-10-21%20110638.png)
+
+##### STT& ASR (Transcript)
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110655.png)
+
+##### Diarization Part:
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110718.png)
+
+##### Final summary and Download Button :
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110726.png)
 
 
 ## 📦 Installation Guide
@@ -119,22 +132,6 @@ The meeting began with introductions and discussion about project updates.
 2.Enter Hugging Face token (for diarization)
 
 3.Change summarization model (e.g., facebook/bart-large-cnn, google/pegasus-xsum, etc.)
-
-## Example of real-time :
-
-Upload and Save the file(eg. ES2004a.wav)
-![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/84d7be7c09af05c1a295f770ca02890a79d7fc8b/Screenshot%202025-10-21%20110638.png)
-
-STT& ASR (Transcript)
-![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110655.png)
-
-Diarization Part:
-![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110718.png)
-
-Final summary and Download Button :
-![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/1c56812a46f41a960e1dff072cd07842a1d0e80d/Screenshot%202025-10-21%20110726.png)
-
-
 
 
 🧾 Notes :
