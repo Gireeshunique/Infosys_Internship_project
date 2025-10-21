@@ -118,6 +118,14 @@ The meeting began with introductions and discussion about project updates.
 
 3.Change summarization model (e.g., facebook/bart-large-cnn, google/pegasus-xsum, etc.)
 
+## Example of real-time :
+![Image_Alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/8dfdf87d067046b00336c857dc8d89c08a6b4cc3/Screenshot%202025-10-21%20110655.png)
+
+
+
+
+
+
 🧾 Notes :
 
 > If diarization fails or token is missing, the app will still run transcription and summarization.
