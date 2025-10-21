@@ -1,5 +1,7 @@
 # 🎙️ Speech-to-Text + Diarization + Summarization — Streamlit App
 
+![image_alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/84d7be7c09af05c1a295f770ca02890a79d7fc8b/Screenshot%202025-10-21%20110638.png)
+
 This project is a **Streamlit web app** that performs:
 - **Speech-to-Text (ASR)** using OpenAI Whisper  
 - **Speaker Diarization** using Pyannote  
@@ -120,7 +122,7 @@ The meeting began with introductions and discussion about project updates.
 
 ## Example of real-time :
 
-<img width="1879" height="869" alt="Image" src="https://github.com/user-attachments/assets/3e393c1f-7896-40a8-8a73-170932e6e055" />
+!
 
 
 
