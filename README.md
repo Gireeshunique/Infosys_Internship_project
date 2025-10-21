@@ -120,8 +120,7 @@ The meeting began with introductions and discussion about project updates.
 
 ## Example of real-time :
 
-![Image_Alt](https://github.com/Gireeshunique/Infosys_Internship_project/blob/8dfdf87d067046b00336c857dc8d89c08a6b4cc3/Screenshot%202025-10-21%20110655.png)
-
+<img width="1879" height="869" alt="Image" src="https://github.com/user-attachments/assets/3e393c1f-7896-40a8-8a73-170932e6e055" />
 
 
 
